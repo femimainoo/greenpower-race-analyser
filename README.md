@@ -51,7 +51,9 @@ Final conclusions from this project:
 Benefits:
 
 While it took longer to make calculations and draw graphs from data using MATLAB rather than excel it allowed me to develop the coding skills I learnt from the MATLAB course I did in a practical and fun way. There are lots of parallels between coding in MATLAB and python, so it also helped me practice concepts in both coding languages. This is why I think it would be helpful for other students at Greenpower to explore.
+
 Furthermore, MATLAB is a platform that is used to allow engineers and data analysts to make calculations and visualise data, which are two career paths I am highly interested in and now know I would have fun having either one of these careers because of the MATLAB course and this project. 
+
 In terms of answering my initial question (How does the performance of a Greenpower car change during a race?), MATLAB certainly helped me to do this. The graphs show a clear answer. More team collaboration will be essential to use this data to look for solutions that allow empress to maintain speed for as long as possible.
 
 Next steps to improve this project:
