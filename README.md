@@ -56,7 +56,7 @@ In terms of answering my initial question (How does the performance of a Greenpo
 
 Next steps to improve this project:
 
--	Would like to a third graph showing power consumption over a race but would appreciate guidance about how to do this because I’m not sure if it’s possible to record the current, voltage, resistance etc. of the batteries over a race.
+-	Would like to a third graph showing power consumption over a race but would appreciate guidance about how to do this because I’m not sure if it’s possible to record the current and voltage of the batteries over a race.
 -	Look for more efficient ways to code. This should be achieved through reading through more of the MATLAB help centre documentation and practice.
 -	Collaborate with the team to get suggestions about how to improve empress’ performance.
 
