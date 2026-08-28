@@ -36,19 +36,19 @@ What might have caused the change?
 
 - The battery started at low current 
 
-- A driver could have braked often which drains the battery
+- While this can't be directly inferred from the graphs, we know that braking drains the car's battery. So, a driver could have braked often.
 
 Possible solutions?
 
 - Use a battery with higher current e.g. 32A
 
-- While this can't be directly inferred from the table, we know that braking drains the car's battery. We could encourage drivers not to brake as much as possible.
+- We could encourage drivers not to brake as much as possible.
 
 Final conclusions from this project:
 
 Benefits:
 
-While it took longer to make calculations and draw graphs from data using MATLAB rather than excel it allowed me to develop the coding skills I learnt from the MATLAB course I did in a practical and fun way. There are lots of parallels between coding in MATLAB and python, so it also helped me practice concepts in both coding languages. This is why I think it would be helpful for other students at Greenpower to explore.
+While it took longer to make calculations and draw graphs from data using MATLAB rather than excel, it allowed me to develop the coding skills I learnt from the MATLAB course I did in a practical and fun way. There are lots of parallels between coding in MATLAB and python, so it also helped me practice concepts in both coding languages. This is why I think it would be helpful for other students at Greenpower to explore.
 
 Furthermore, MATLAB is a platform that is used to allow engineers and data analysts to make calculations and visualise data, which are two career paths I am highly interested in and now know I would have fun having either one of these careers because of the MATLAB course and this project. 
 
