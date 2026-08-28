@@ -42,9 +42,7 @@ Possible solutions?
 
 - Use a battery with higher current e.g. 32A
 
-- Encourage drivers not to brake as much as possible
-
-- ?
+- While this can't be directly inferred from the table, we know that braking drains the car's battery. We could encourage drivers not to brake as much as possible.
 
 Final conclusions from this project:
 
