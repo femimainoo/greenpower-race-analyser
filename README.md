@@ -20,6 +20,10 @@ Method:
 
 Results:
 
+<img width="1050" height="766" alt="Graph-Speed of Empress each Lap" src="https://github.com/user-attachments/assets/8d34a999-628a-465b-b593-111cf3e7c841" />
+
+<img width="1064" height="778" alt="Graph-Time Taken for Empress to Complete Each Lap" src="https://github.com/user-attachments/assets/0a408e3b-14e5-445e-9755-218576c5876a" />
+
 Did performance improve or decline?
 
 Empress' performance declined steadily 
@@ -59,4 +63,3 @@ Next steps to improve this project:
 -	Would like to a third graph showing power consumption over a race but would appreciate guidance about how to do this because I’m not sure if it’s possible to record the current and voltage of the batteries over a race.
 -	Look for more efficient ways to code. This should be achieved through reading through more of the MATLAB help centre documentation and practice.
 -	Collaborate with the team to get suggestions about how to improve empress’ performance.
-
