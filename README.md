@@ -1,6 +1,4 @@
-# greenpower-race-analyser
-
-Project: How does the performance of a Greenpower car change during a race?
+# Project: How does the performance of a Greenpower car change during a race?
 
 I am going to use fake data to analyse how the performance of a Greenpower car change during a race.
 
